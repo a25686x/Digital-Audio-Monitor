@@ -12,6 +12,7 @@ monitor digital audio from SPDIF/AES3 and SDI video source
 
 
 Using following software:
-  Kicad 7.0
+
+  Kicad 7.0 
   Fusion 360
   Arduino
