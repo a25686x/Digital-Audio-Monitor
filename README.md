@@ -10,3 +10,8 @@ monitor digital audio from SPDIF/AES3 and SDI video source
 
   ESP8285:  system control
 
+
+Using following software:
+  Kicad 7.0
+  Fusion 360
+  Arduino
